@@ -17,6 +17,10 @@ After working as a psychotherapist for the last 3 years, I'm looking for an iOS 
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<br>
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raulrd3&theme=dark)](https://git.io/streak-stats)
 
 
 <!--
