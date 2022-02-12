@@ -1,6 +1,6 @@
 ### Hi, I'm Raul! 👋 
 
-I'm an iOS Developer passionate about problem solving and cross-functional collaboration to craft great end-user experiences.
+I'm an iOS Developer passionate about problem solving and collaboration to craft great end-user experiences.
 <br>
 <br>
 After working as a psychotherapist for the last 3 years, I'm looking for an iOS Developer role.  My clinical skills translate well into technical problem solving as I have experience assessing, diagnosing, and treating client concerns within an interdisciplinary team.  My background in mental health also gives me a unique insight into how people interact with products and the kind of experiences they are looking for.
@@ -17,11 +17,6 @@ After working as a psychotherapist for the last 3 years, I'm looking for an iOS 
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<br>
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raulrd3&theme=dark)](https://git.io/streak-stats)
-
 
 <!--
 **raulrd3/raulrd3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
